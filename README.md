@@ -7,6 +7,9 @@ Welcome to **Our Totally Cool Project** – hopefully it'll be a functioning too
 ![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
 
 ---
+### Authors
+Tyler Johnston
+Bethany Christensen
 
 ## 🚀 Features
 
